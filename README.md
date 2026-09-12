@@ -64,26 +64,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naman0274&label=Profile%20views&color=0e75b6&style=flat" alt="naman0274" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naman0274&show_icons=true&locale=en" alt="naman0274" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman0274&" alt="naman0274" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naman0274&show_icons=true&locale=en&layout=compact" alt="naman0274" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naman0274" alt="naman0274" />
-</p>
-
----
 
